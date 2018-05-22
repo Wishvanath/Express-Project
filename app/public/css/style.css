@@ -1,0 +1,19 @@
+body{
+    background-color: aquamarine;
+    color:white;
+}
+.back_image{
+    height: 500px;
+    background-image: url('../images/app_back_image.jpg');
+    background-repeat: no-repeat;
+    margin-top:-30px;
+    margin-left: -10px;
+    margin-right: -10px;
+    padding: 30px;
+}
+.back_image h1{
+    font-size: 60px;
+    text-transform: uppercase;
+    font-style: "Sans-serif";
+    font-weight: bold;
+}

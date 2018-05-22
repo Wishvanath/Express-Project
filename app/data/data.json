@@ -1,0 +1,25 @@
+{
+    "friends":[
+        {
+            "title" : "Class friend",
+            "name" : "Monika",
+            "shortname" : "Mouni",
+            "summary" : "You can tell about your self",
+            "description" : "<p>Viewer wants to know more about you</p>"
+        },
+        {
+            "title" : "Best friend",
+            "name" : "Sankar",
+            "shortname" : "santu",
+            "summary" : "You can tell about your self",
+            "description" : "<p>Viewer wants to know more about you</p>"
+        },
+        {
+            "title" : "About Me",
+            "name" : "Wishvanath",
+            "shortname" : "wish",
+            "summary" : "You can tell about your self",
+            "description" : "<p>Viewer wants to know more about you</p>"
+        }
+    ]
+}
