@@ -1,0 +1,26 @@
+{
+  "name": "express_project",
+  "version": "1.0.0",
+  "description": "This is Express Project ",
+  "main": "app/app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Wishvanath/Express-Project.git"
+  },
+  "keywords": [
+    "Express",
+    "Website"
+  ],
+  "author": "Wishvanath",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Wishvanath/Express-Project/issues"
+  },
+  "homepage": "https://github.com/Wishvanath/Express-Project#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
